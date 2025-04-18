@@ -17,7 +17,7 @@ This resume highlights my skills, experience, education, certifications, and pro
 Feel free to reach out or connect with me:
 
 - 🔗 [LinkedIn](www.linkedin.com/in/mayank4352)
-- 📧 
+- 📧 e22cseu0839@bennett.edu.in
   
 
 Thank you for visiting!
