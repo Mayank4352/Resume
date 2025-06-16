@@ -7,6 +7,7 @@ Welcome to my resume repository! This repository contains the latest version of 
 This resume highlights my skills, experience, education, certifications, and projects in areas such as:
 
 - Mobile App Development (Flutter, Dart)
+- Web Development(React, TailwindCSS)
 - Machine Learning & Deep Learning (TensorFlow, CNNs, NLP)
 - Full-Stack Development (Firebase, Node.js)
 - UI/UX Design and Implementation
